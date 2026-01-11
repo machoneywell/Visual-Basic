@@ -1,0 +1,19 @@
+D:\CIS-606\Practice Flooring\Practice Flooring\bin\Debug\Practice Flooring.exe.config
+D:\CIS-606\Practice Flooring\Practice Flooring\bin\Debug\Practice Flooring.exe
+D:\CIS-606\Practice Flooring\Practice Flooring\bin\Debug\Practice Flooring.pdb
+D:\CIS-606\Practice Flooring\Practice Flooring\bin\Debug\Practice Flooring.xml
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Flooring.vbprojResolveAssemblyReference.cache
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Practice_Flooring.frmFlooring.resources
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Practice_Flooring.Resources.resources
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Flooring.vbproj.GenerateResource.Cache
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Practice Flooring.exe
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Practice Flooring.xml
+D:\CIS-606\Practice Flooring\Practice Flooring\obj\Debug\Practice Flooring.pdb
+D:\CIS-606\Flooring Cost Calculator\Practice Flooring\bin\Debug\Practice Flooring.exe.config
+D:\CIS-606\Flooring Cost Calculator\Practice Flooring\obj\Debug\Practice Flooring.exe
+D:\CIS-606\Flooring Cost Calculator\Practice Flooring\obj\Debug\Practice Flooring.xml
+D:\CIS-606\Flooring Cost Calculator\Practice Flooring\obj\Debug\Practice Flooring.pdb
+D:\CIS-606\Flooring Cost Calculator\Flooring Cost Calculator\bin\Debug\Practice Flooring.exe.config
+D:\CIS-606\Flooring Cost Calculator\Flooring Cost Calculator\obj\Debug\Practice Flooring.exe
+D:\CIS-606\Flooring Cost Calculator\Flooring Cost Calculator\obj\Debug\Practice Flooring.xml
+D:\CIS-606\Flooring Cost Calculator\Flooring Cost Calculator\obj\Debug\Practice Flooring.pdb
