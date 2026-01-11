@@ -1,0 +1,15 @@
+D:\CIS-121\Pizza Selection\Pizza Selection\bin\Debug\Pizza Selection.exe.config
+D:\CIS-121\Pizza Selection\Pizza Selection\bin\Debug\Pizza Selection.exe
+D:\CIS-121\Pizza Selection\Pizza Selection\bin\Debug\Pizza Selection.pdb
+D:\CIS-121\Pizza Selection\Pizza Selection\bin\Debug\Pizza Selection.xml
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.vbprojResolveAssemblyReference.cache
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza_Selection.Form1.resources
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza_Selection.Resources.resources
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.vbproj.GenerateResource.Cache
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.exe
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.xml
+D:\CIS-121\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.pdb
+D:\CIS-606\Pizza Selection\Pizza Selection\bin\Debug\Pizza Selection.exe.config
+D:\CIS-606\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.exe
+D:\CIS-606\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.xml
+D:\CIS-606\Pizza Selection\Pizza Selection\obj\Debug\Pizza Selection.pdb
