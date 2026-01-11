@@ -1,0 +1,12 @@
+D:\CIS-606\Mystery Escape\Mystery Escape\bin\Debug\Mystery Escape.exe.config
+D:\CIS-606\Mystery Escape\Mystery Escape\bin\Debug\Mystery Escape.exe
+D:\CIS-606\Mystery Escape\Mystery Escape\bin\Debug\Mystery Escape.pdb
+D:\CIS-606\Mystery Escape\Mystery Escape\bin\Debug\Mystery Escape.xml
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery Escape.vbprojResolveAssemblyReference.cache
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery_Escape.Resources.resources
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery_Escape.SplashScreen1.resources
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery Escape.vbproj.GenerateResource.Cache
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery Escape.exe
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery Escape.xml
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery Escape.pdb
+D:\CIS-606\Mystery Escape\Mystery Escape\obj\Debug\Mystery_Escape.frmEscape.resources
